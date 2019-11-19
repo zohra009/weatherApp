@@ -5,7 +5,7 @@ render() {
 return (
     <div>
         <h1> Weather Finder</h1>
-        <p> Find out the temperature</p>
+        <p> Find out the temperature!</p>
     </div>
 }
 
