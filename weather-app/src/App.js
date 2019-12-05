@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Titles from './components/Titles.js'
+import Titles from './components/Titles';
 
 import './App.css';
 
