@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import Titles from './components/Titles.js'
 
 import './App.css';
 
@@ -8,6 +9,7 @@ class App extends Component {
   return (
     <div className="App">
      <h1>hello sexy weather app</h1>
+     <Titles />
     </div>
   )};
 }
