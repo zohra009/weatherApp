@@ -6,7 +6,7 @@ class Form extends Component {
 render(){
     return(
         <div>
-            Form: Fill out this Form!
+             Fill out this Form!
         </div>
     )
 }
