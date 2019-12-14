@@ -5,7 +5,7 @@ render() {
 return (
     <div>
         <h1>Title page </h1>
-        <p> Find out the temperature, conditions and more!</p>
+        <p> Find out the temperature, conditions and more!!</p>
     </div>
 }
 
